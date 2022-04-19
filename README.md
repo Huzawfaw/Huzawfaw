@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Huzaifa
 - 👀 I’m interested in becoming an expert in Web and Android development
 - 🌱 I’m currently learning Java 
-- 📫 You can reach me by typing huzawfaw in you instagram search.
+- 📫 You can reach me by typing huzawfaw in your instagram search.
 
 <!---
 Huzawfaw/Huzawfaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
