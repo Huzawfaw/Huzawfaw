@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Huzaifa
-- 👀 I’m interested in becoming an expert in Web and Android development
-- 🌱 I’m currently learning Java 
+- 👀 I’m interested in becoming an expert in Android development
+- 🌱 I’m currently learning Kotlin
 - 📫 You can reach me by typing huzawfaw in your instagram search.
 
 <!---
